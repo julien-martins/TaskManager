@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/julien-martins/TaskManager/issues"
   },
-  "homepage": "https://github.com/julien-martins/TaskManager#readme"
+  "homepage": "https://github.com/julien-martins/TaskManager#readme",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "express": "^4.21.0"
+  }
 }
